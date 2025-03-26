@@ -1,0 +1,13 @@
+# Ignorar arquivos compactados
+*.zip
+*.rar
+
+# Ignorar arquivos de texto
+*.txt
+
+# Ignorar arquivos de banco de dados e backups
+*.bd
+*.bkp
+
+# Ignorar arquivos de configuração do ambiente
+*.env
